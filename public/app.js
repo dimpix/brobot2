@@ -1,5 +1,5 @@
 const connector = new TonConnect.TonConnect({
-    manifestUrl: 'brobot1-production.up.railway.app/tonconnect-manifest.json'
+    manifestUrl: 'brobot2-production.up.railway.app/tonconnect-manifest.json'
 });
 
 const connectWalletBtn = document.getElementById('connectWallet');
